@@ -1,0 +1,31 @@
+Package: SparkR
+Type: Package
+Title: R frontend for Spark
+Version: 1.6.1
+Date: 2013-09-09
+Author: The Apache Software Foundation
+Maintainer: Shivaram Venkataraman <shivaram@cs.berkeley.edu>
+Imports: methods
+Depends: R (>= 3.0), methods,
+Suggests: testthat
+Description: R frontend for Spark
+License: Apache License (== 2.0)
+Collate: 'schema.R' 'generics.R' 'jobj.R' 'column.R' 'group.R' 'RDD.R'
+        'pairRDD.R' 'DataFrame.R' 'SQLContext.R' 'backend.R'
+        'broadcast.R' 'client.R' 'context.R' 'deserialize.R'
+        'functions.R' 'mllib.R' 'serialize.R' 'sparkR.R' 'stats.R'
+        'types.R' 'utils.R'
+RoxygenNote: 5.0.1
+Built: R 3.3.1; ; 2016-07-15 05:44:08 UTC; windows
+RemoteType: github
+RemoteHost: https://api.github.com
+RemoteRepo: spark
+RemoteUsername: apache
+RemoteRef: v1.6.2
+RemoteSha: 54b1121f351f056d6b67d2bb4efe0d553c0f7482
+RemoteSubdir: R/pkg
+GithubRepo: spark
+GithubUsername: apache
+GithubRef: v1.6.2
+GithubSHA1: 54b1121f351f056d6b67d2bb4efe0d553c0f7482
+GithubSubdir: R/pkg
