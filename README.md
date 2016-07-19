@@ -1,4 +1,5 @@
 # spark-1.6.2-bin-hadoop2.6
+C:/stack/spark-1.6.2-bin-hadoop2.6/lib not pushed.
 
 # Apache Spark
 
